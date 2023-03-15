@@ -5,9 +5,9 @@ export default function Footer() {
     <>
             <footer className="bg-white dark:bg-gray-900">
         <div className="container flex flex-col items-center justify-between p-6 mx-auto space-y-4 sm:space-y-0 sm:flex-row">
-            <a href="#">
+            {/* <a href="#">
                 <img className="w-auto h-7" src="https://merakiui.com/images/full-logo.svg" alt=""/>
-            </a>
+            </a> */}
 
             <p className="text-sm font-bold text-gray-600 dark:text-gray-300">© Copyright 2023. Made With &hearts; Rawon.</p>
 
