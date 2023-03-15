@@ -19,8 +19,8 @@ export default function Product() {
   return (
     <div>
         <section className="text-gray-600 body-font">
-  <div className="container px-5 py-16 mx-auto">
-    <div className="flex flex-wrap gap-6">
+  <div className="container px-5 py-16 w-full mx-auto">
+    <div className="flex flex-wrap gap-4 justify-center w-full">
         {
           products.length > 0 && (
             products.map((item,key)=>(
