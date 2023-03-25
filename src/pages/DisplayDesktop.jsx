@@ -2,7 +2,7 @@ import React from 'react'
 import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
 
-export default function Fashion() {
+export default function DisplayDesktop() {
   return (
     <div>
         <Navbar/>
@@ -16,7 +16,7 @@ export default function Fashion() {
                     <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus</p>
                 </div>
 
-                <img class="object-cover w-full h-48 mt-2" src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=320&q=80" alt="NIKE AIR"/>
+                <img class="object-cover w-full h-48 mt-2" src="https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//95/MTA-1575094/asus_asus-rog-swift-pg258q-gaming-monitor---25--fhd--1920x1080---native-240hz--1ms--g-sync-_full06.jpg" alt="NIKE AIR"/>
 
                 <div class="flex items-center justify-between px-4 py-2 bg-gray-900">
                     <h1 class="text-lg font-bold text-white">$129</h1>
@@ -29,7 +29,7 @@ export default function Fashion() {
                     <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus</p>
                 </div>
 
-                <img class="object-cover w-full h-48 mt-2" src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=320&q=80" alt="NIKE AIR"/>
+                <img class="object-cover w-full h-48 mt-2" src="https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//95/MTA-1575094/asus_asus-rog-swift-pg258q-gaming-monitor---25--fhd--1920x1080---native-240hz--1ms--g-sync-_full06.jpg" alt="NIKE AIR"/>
 
                 <div class="flex items-center justify-between px-4 py-2 bg-gray-900">
                     <h1 class="text-lg font-bold text-white">$129</h1>
@@ -43,7 +43,7 @@ export default function Fashion() {
                     <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus</p>
                 </div>
 
-                <img class="object-cover w-full h-48 mt-2" src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=320&q=80" alt="NIKE AIR"/>
+                <img class="object-cover w-full h-48 mt-2" src="https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//95/MTA-1575094/asus_asus-rog-swift-pg258q-gaming-monitor---25--fhd--1920x1080---native-240hz--1ms--g-sync-_full06.jpg" alt="NIKE AIR"/>
 
                 <div class="flex items-center justify-between px-4 py-2 bg-gray-900">
                     <h1 class="text-lg font-bold text-white">$129</h1>
@@ -56,7 +56,7 @@ export default function Fashion() {
                     <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus</p>
                 </div>
 
-                <img class="object-cover w-full h-48 mt-2" src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=320&q=80" alt="NIKE AIR"/>
+                <img class="object-cover w-full h-48 mt-2" src="https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//95/MTA-1575094/asus_asus-rog-swift-pg258q-gaming-monitor---25--fhd--1920x1080---native-240hz--1ms--g-sync-_full06.jpg" alt="NIKE AIR"/>
 
                 <div class="flex items-center justify-between px-4 py-2 bg-gray-900">
                     <h1 class="text-lg font-bold text-white">$129</h1>

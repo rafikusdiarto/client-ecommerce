@@ -5,9 +5,9 @@ import Home from './pages/Home'
 import { Route, Routes } from 'react-router-dom'
 import Login from './auth/Login'
 import DetailProduct from './components/DetailProduct'
-import Fashion from './pages/Fashion'
-import Electronics from './pages/Electronics'
-import Vehicle from './pages/Vehicle'
+import Laptop from './pages/Laptop'
+import MotherboardComponents from './pages/MotherboardComponents'
+import DisplayDesktop from './pages/DisplayDesktop'
 
 function App() {
   return (
@@ -15,10 +15,10 @@ function App() {
       <Routes>
         <Route path='/' element={<Home/>} />
         <Route path='/login' element={<Login/>} />
-        <Route path='/detail-product/:id' element={<DetailProduct/>}/>
-        <Route path='/fashion' element={<Fashion/>} />
-        <Route path='/electronics' element={<Electronics/>} />
-        <Route path='/vehicle' element={<Vehicle/>} />
+        <Route path='/detail-product/:id' element={<DetailProduct/>} />
+        <Route path='/laptop' element={<Laptop/>} />
+        <Route path='/display-desktop' element={<DisplayDesktop/>} />
+        <Route path='/motherboard-components' element={<MotherboardComponents/>} />
       </Routes>
     </div>
   )

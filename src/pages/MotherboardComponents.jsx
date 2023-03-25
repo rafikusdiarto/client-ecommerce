@@ -2,7 +2,7 @@ import React from 'react'
 import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
 
-export default function Vehicle() {
+export default function MotherboardComponents() {
   return (
     <div>
         <Navbar/>
@@ -15,7 +15,7 @@ export default function Vehicle() {
                     <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus</p>
                 </div>
 
-                <img class="object-cover w-full h-48 mt-2" src="https://img.cintamobil.com/2019/01/18/X04JVabA/bmw-7-series-2019-1-7f58.jpg" alt="NIKE AIR"/>
+                <img class="object-cover w-full h-48 mt-2" src="https://oneit-solution.com/wp-content/uploads/2021/10/5-21-7.jpg" alt="NIKE AIR"/>
 
                 <div class="flex items-center justify-between px-4 py-2 bg-gray-900">
                     <h1 class="text-lg font-bold text-white">$129</h1>
@@ -29,7 +29,7 @@ export default function Vehicle() {
                     <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus</p>
                 </div>
 
-                <img class="object-cover w-full h-48 mt-2" src="https://img.cintamobil.com/2019/01/18/X04JVabA/bmw-7-series-2019-1-7f58.jpg" alt="NIKE AIR"/>
+                <img class="object-cover w-full h-48 mt-2" src="https://oneit-solution.com/wp-content/uploads/2021/10/5-21-7.jpg" alt="NIKE AIR"/>
 
                 <div class="flex items-center justify-between px-4 py-2 bg-gray-900">
                     <h1 class="text-lg font-bold text-white">$129</h1>
@@ -42,7 +42,7 @@ export default function Vehicle() {
                     <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus</p>
                 </div>
 
-                <img class="object-cover w-full h-48 mt-2" src="https://img.cintamobil.com/2019/01/18/X04JVabA/bmw-7-series-2019-1-7f58.jpg" alt="NIKE AIR"/>
+                <img class="object-cover w-full h-48 mt-2" src="https://oneit-solution.com/wp-content/uploads/2021/10/5-21-7.jpg" alt="NIKE AIR"/>
 
                 <div class="flex items-center justify-between px-4 py-2 bg-gray-900">
                     <h1 class="text-lg font-bold text-white">$129</h1>
@@ -55,7 +55,7 @@ export default function Vehicle() {
                     <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus</p>
                 </div>
 
-                <img class="object-cover w-full h-48 mt-2" src="https://img.cintamobil.com/2019/01/18/X04JVabA/bmw-7-series-2019-1-7f58.jpg" alt="NIKE AIR"/>
+                <img class="object-cover w-full h-48 mt-2" src="https://oneit-solution.com/wp-content/uploads/2021/10/5-21-7.jpg" alt="NIKE AIR"/>
 
                 <div class="flex items-center justify-between px-4 py-2 bg-gray-900">
                     <h1 class="text-lg font-bold text-white">$129</h1>
