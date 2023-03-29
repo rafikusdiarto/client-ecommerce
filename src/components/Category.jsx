@@ -8,7 +8,7 @@ export default function Category() {
           <div class="flex flex-wrap w-full mb-10">
             <div class="lg:w-1/2 w-full mb-6 lg:mb-0">
               <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">
-                Fashion
+                Laptop
               </h1>
               <div class="h-1 w-20 bg-indigo-500 rounded"></div>
             </div>
@@ -89,7 +89,7 @@ export default function Category() {
                   Distillery hexagon disrupt edison bulbche.
                 </p>
               </div>
-              <a className="text-indigo-500 inline-flex text-xl items-center ml-4 mt-5" type="button" href="/">More Products
+              <a className="text-indigo-500 inline-flex text-xl items-center ml-4 mt-5" type="button" href="/laptop">More Products
                     <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-7 h-7 ml-2" viewBox="0 0 24 24">
                         <path d="M5 12h14M12 5l7 7-7 7"></path>
                     </svg>
@@ -105,7 +105,7 @@ export default function Category() {
           <div class="flex flex-wrap w-full mb-10">
             <div class="lg:w-1/2 w-full mb-6 lg:mb-0">
               <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">
-                Electronics
+                Display/Desktop
               </h1>
               <div class="h-1 w-20 bg-indigo-500 rounded"></div>
             </div>
@@ -186,7 +186,7 @@ export default function Category() {
                   Distillery hexagon disrupt edison bulbche.
                 </p>
               </div>
-              <a className="text-indigo-500 inline-flex text-xl items-center ml-4 mt-5" type="button" href="/">More Products
+              <a className="text-indigo-500 inline-flex text-xl items-center ml-4 mt-5" type="button" href="/display-desktop">More Products
                     <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-7 h-7 ml-2" viewBox="0 0 24 24">
                         <path d="M5 12h14M12 5l7 7-7 7"></path>
                     </svg>
@@ -200,7 +200,7 @@ export default function Category() {
           <div class="flex flex-wrap w-full mb-10">
             <div class="lg:w-1/2 w-full mb-6 lg:mb-0">
               <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">
-                Cloth
+                Components/Motherboard
               </h1>
               <div class="h-1 w-20 bg-indigo-500 rounded"></div>
             </div>
@@ -281,7 +281,7 @@ export default function Category() {
                   Distillery hexagon disrupt edison bulbche.
                 </p>
               </div>
-              <a className="text-indigo-500 inline-flex text-xl items-center ml-4 mt-5" type="button" href="/">More Products
+              <a className="text-indigo-500 inline-flex text-xl items-center ml-4 mt-5" type="button" href="/motherboard-components">More Products
                     <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-7 h-7 ml-2" viewBox="0 0 24 24">
                         <path d="M5 12h14M12 5l7 7-7 7"></path>
                     </svg>
