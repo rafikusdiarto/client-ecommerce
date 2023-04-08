@@ -11,7 +11,7 @@ export default function DetailProduct(props) {
 
     useEffect(()=>{
         async function fetchProduct(){
-            const {data}= await axios.get(`http://127.0.0.1:8000/api/edit-product/${id}`)
+            const {data}= await axios.get(`http://127.0.0.1:8000/api/all-product/${id}`)
             setProduct(data)
         }
         fetchProduct()
