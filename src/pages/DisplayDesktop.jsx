@@ -26,7 +26,7 @@ export default function DisplayDesktop() {
                 {
                     display.length > 0 && (
                         display.map((item, key) => (
-                            <div class=" overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800 py-5 my-[100]" key={key}>
+                            <div class=" overflow-hidden xl:w-1/4 bg-white rounded-lg shadow-lg dark:bg-gray-800 py-5 my-[100]" key={key}>
                             <div class="px-4 py-2">
                                 <h1 class="text-xl font-bold text-gray-800 uppercase dark:text-white">{item.product_name}</h1>
                                 <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">{item.product_short_des}</p>
