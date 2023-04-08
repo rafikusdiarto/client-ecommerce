@@ -31,7 +31,7 @@ export default function Laptop() {
                         <h1 class="text-xl font-bold text-gray-800 uppercase dark:text-white">{item.product_name}</h1>
                         <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">{item.product_short_des}</p>
                     </div>
-                    <img class="object-cover w-full h-48 mt-2" src="https://cf.shopee.co.id/file/d483fccf855f6ea363e8d24a056fa058"/>
+                    <img class="object-cover w-full h-48 mt-2" src={`http://192.168.1.4:8000/${item.product_img}`}/>
 
                     <div class="flex items-center justify-between px-4 py-2 bg-gray-900">
                         <h1 class="text-lg font-bold text-white">{item.price}</h1>
