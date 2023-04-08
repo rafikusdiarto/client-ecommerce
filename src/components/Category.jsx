@@ -1,7 +1,7 @@
 import React from "react";
 import DisplayCategory from "./category/DisplayCategory";
 import ComponentsCategory from "./category/ComponentsCategory";
-import LaptopCategory from "./category/LaptopCategpry";
+import LaptopCategory from "./category/LaptopCategory";
 
 export default function Category() {
   return (
