@@ -36,7 +36,7 @@ export default function DisplayCategory() {
                     src={`http://192.168.1.4:8000/${item.product_img}`}
                     alt="content"
                   />
-                  <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">
+                  <h3 class="tracking-widest text-indigo-500 text-xs font-medium uppercase title-font">
                     {item.product_category_name}
                   </h3>
                   <h2 class="text-lg text-gray-900 font-medium title-font mb-4">

@@ -41,7 +41,7 @@ export default function LaptopCategory() {
                       {item.product_category_name}
                     </h3>
                     <h2 className="text-lg text-gray-900 font-medium title-font mb-4">
-                      {item.product_nam}
+                      {item.product_name}
                     </h2>
                     <p className="leading-relaxed text-base">
                       {item.product_short_des}  
