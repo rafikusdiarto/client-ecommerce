@@ -26,13 +26,15 @@ export default function MotherboardComponents() {
                 {
                     components.length > 0 && (
                         components.map((item, key) => (
-                            <div class=" overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800 py-5 my-[100]" key={key}>
+                            <div class=" overflow-hidden xl:w-1/4 bg-white rounded-lg shadow-lg dark:bg-gray-800 py-5 my-[100]" key={key}>
                             <div class="px-4 py-2">
                                 <h1 class="text-xl font-bold text-gray-800 uppercase dark:text-white">{item.product_name}</h1>
                                 <p class="mt-1 text-sm text-gray-600 dark:text-gray-400">{item.product_short_des}</p>
                             </div>
         
-                            <img class="object-cover w-full h-48 mt-2" src="https://oneit-solution.com/wp-content/uploads/2021/10/5-21-7.jpg" alt="NIKE AIR"/>
+                            <img class="object-cover w-full h-48 mt-2" 
+                            src={`http://192.168.1.4:8000/${item.product_img}`}
+                            alt="NIKE AIR"/>
         
                             <div class="flex items-center justify-between px-4 py-2 bg-gray-900">
                                 <h1 class="text-lg font-bold text-white">Rp. {item.price}</h1>

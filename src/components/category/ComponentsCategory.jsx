@@ -111,7 +111,7 @@ export default function ComponentsCategory() {
               className="text-indigo-500 inline-flex text-xl items-center ml-4 mt-5"
               type="button"
               href="/motherboard-components"
-            >
+            > 
               More Products
               <svg
                 fill="none"

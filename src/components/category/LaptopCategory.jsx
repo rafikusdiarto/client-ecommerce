@@ -111,7 +111,7 @@ export default function LaptopCategory() {
             <a
               className="text-indigo-500 inline-flex text-xl items-center ml-4 mt-5"
               type="button"
-              href="/display-desktop"
+              href="/laptop"
             >
               More Products
               <svg
