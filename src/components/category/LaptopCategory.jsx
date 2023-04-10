@@ -34,7 +34,7 @@ export default function LaptopCategory() {
                   <div className="bg-gray-100 p-6 rounded-lg">
                     <img
                       className="h-40 rounded w-full object-cover object-center mb-6"
-                      src={`http://192.168.1.4:8000/${item.product_img}`}
+                      src={`http://192.168.1.10:8000/${item.product_img}`}
                       alt="content"
                     />
                     <h3 className="tracking-widest text-indigo-500 text-xs font-medium title-font uppercase">
